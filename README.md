@@ -1,3 +1,9 @@
+# What is the Phantom Forest?
+
+A region in maplestory. Here's a map of it:
+
+![](map.png)
+
 # Is the Phantom Forest planar?
 
 Apparently not.
@@ -23,3 +29,6 @@ Successfully installed planarity-0.4.1
 Is phantom forest (detailed maps) planar?: False
 Is phantom forest (simple map) planar?: False
 ```
+# Credits
+[planarity](https://github.com/hagberg/planarity) Copyright (C) 2016 Aric Hagberg
+Unknown person for creating the map

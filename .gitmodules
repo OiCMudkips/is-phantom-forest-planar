@@ -1,0 +1,3 @@
+[submodule "planarity"]
+	path = planarity
+	url = git@github.com:hagberg/planarity.git

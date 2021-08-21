@@ -2,7 +2,7 @@
 
 Apparently not.
 
-```bash
+```
 ?/is-phantom-forest-planar > make virtualenv_run
 python3 -m venv virtualenv_run
 ?/is-phantom-forest-planar > source virtualenv_run/bin/activate

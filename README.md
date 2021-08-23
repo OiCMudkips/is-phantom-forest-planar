@@ -31,4 +31,5 @@ Is phantom forest (simple map) planar?: False
 ```
 # Credits
 [planarity](https://github.com/hagberg/planarity) Copyright (C) 2016 Aric Hagberg
+
 Unknown person for creating the map
